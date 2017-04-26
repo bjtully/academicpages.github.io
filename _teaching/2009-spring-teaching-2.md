@@ -1,5 +1,5 @@
 ---
-title: "Aquatic Microbial Ecology"
+title: "Introduction to Microbiology"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2009-spring-teaching-2
