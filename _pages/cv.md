@@ -16,10 +16,17 @@ Education
 
 Work experience
 ======
+* 2019-present Research Associate
+  * University of Southern California
+  * Indepedent research and bioinformatic tool development
+  * Center for Dark Energy Biosphere Investigations, Bioinformatic Specialist
+  
 * 2014-present: Postdoctoral Scholar Research Associate
   * University of Southern California
   * Development of bioinformatic tools in marine environments
   * Center for Dark Energy Biosphere Investigations, Bioinformatic Specialist
+  * Independent researcher, 2016-2019
+  * Postdoc supervisor, Julie Huber
 
 * 2013: Postdoctoral Researcher
   * University of Southern California
