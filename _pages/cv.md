@@ -25,8 +25,8 @@ Work experience
   * University of Southern California
   * Development of bioinformatic tools in marine environments
   * Center for Dark Energy Biosphere Investigations, Bioinformatic Specialist
-  * Independent researcher, 2016-2019
-  * Postdoc supervisor, Julie Huber
+  * Independent researcher (2016-2019)
+  * Postdoc supervisor (2014-2016), Julie Huber
 
 * 2013: Postdoctoral Researcher
   * University of Southern California
