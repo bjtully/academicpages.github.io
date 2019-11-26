@@ -21,7 +21,7 @@ Work experience
   * Indepedent research and bioinformatic tool development
   * Center for Dark Energy Biosphere Investigations, Bioinformatic Specialist
   
-* 2014-present: Postdoctoral Scholar Research Associate
+* 2014-2019: Postdoctoral Scholar Research Associate
   * University of Southern California
   * Development of bioinformatic tools in marine environments
   * Center for Dark Energy Biosphere Investigations, Bioinformatic Specialist
