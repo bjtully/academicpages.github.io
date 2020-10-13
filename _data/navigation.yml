@@ -12,5 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "BVCN"
+    url: /BVCN/
+
   - title: "Blog Posts"
     url: /posts/
