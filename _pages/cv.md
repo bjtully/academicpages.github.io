@@ -16,7 +16,11 @@ Education
 
 Work experience
 ======
-* 2019-present Research Associate
+* 2019-present: Bioinformatics Senior Research Associate
+  * BiomePx Target Microbiome Diagnostics
+  * Alfred E. Mann Institute for Biomedical Engineering
+
+* 2019-present: Research Associate
   * University of Southern California
   * Indepedent research and bioinformatic tool development
   * Center for Dark Energy Biosphere Investigations, Bioinformatic Specialist
