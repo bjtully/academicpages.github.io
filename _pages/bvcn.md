@@ -2,7 +2,7 @@
 layout: archive
 title: "BVCN"
 redirect_from: 
-  - /bvcn/
+  - /BVCN/
 ---
 
 # Principle Investigator for the Bioinformatics Virtual Coordination Network
