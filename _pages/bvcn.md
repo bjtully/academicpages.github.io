@@ -5,7 +5,7 @@ redirect_from:
   - /BVCN/
 ---
 
-# Principle Investigator for the Bioinformatics Virtual Coordination Network
+# Principal Investigator for the Bioinformatics Virtual Coordination Network
 
 The **Bioinformatics Virtual Coordination Network (BVCN)** is a learning community designed to help researchers looking to learn key bioinformatic concepts. Created during the "safe-at-home" orders in the early months of the Covid-19 pandemic, the BVCN provides lessons and hands-on examples for a range of topics, including: unix, R, Python, amplicon analysis, metagenomics, transcriptomics, and network science.
 
